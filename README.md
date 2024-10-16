@@ -1,1 +1,1 @@
-Estes são alguns códigos do curso que venho estudando de tensorflow para desenvolvimento de redes neurais e regressões lineares, em breve estarei fazendo alguns commits com os códigos os modelos desenvolvidos com comentários descrevendo detalhadamente oque faz cada etapa!
+Estes são alguns códigos do curso que venho estudando de tensorflow para desenvolvimento de redes neurais e regressões lineares, em breve estarei fazendo alguns commits, com os códigos dos modelos desenvolvidos, com comentários descrevendo detalhadamente oque faz cada etapa!
